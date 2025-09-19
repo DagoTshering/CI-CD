@@ -11,7 +11,7 @@ metadata:                         # Ingress information
     app: taskmanager
     student: "02220140"  # 📝 Replace with your student number
 spec:                             # Ingress specification
-  IngressClassName: nginx   # Use the nginx ingress controller
+  ingressClassName: nginx   # Use the nginx ingress controller
   
   rules:                          # Routing rules
   - host: 02220140.cstapp.site  # 📝 Replace STUDENT_NUMBER (e.g., taskmanager-0215539.local)
