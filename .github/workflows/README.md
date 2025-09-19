@@ -124,7 +124,7 @@ The workflows use PostgreSQL service containers for testing:
 3. **Monitor Workflows**: Check Actions tab for workflow status
 4. **Use Caching**: Workflows include caching for faster builds
 5. **Security**: Use secrets for sensitive data, never hardcode
-6. **Environments**: Use GitHub environments for deployment protection
+6. **Environments**: Use GitHub environments for deployment protectionn
 
 ## Additional Resources
 
